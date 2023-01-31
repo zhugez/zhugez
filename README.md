@@ -2,7 +2,7 @@
 
 
 <h1  align="center >
-            ### Hi there 👋
+            Hi there 👋
  - 🔭 I’m currently working on Cyber Security.
 - 🌱 I’m currently learning Computer Science.
 - 👯 I’m looking to collaborate on researching.
@@ -10,8 +10,8 @@
 - 💬 Ask me about CyberSec ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Cats are one of, if not the most, popular pet in the world. ...
-### 🛠 My knowledge</h1>
+- ⚡ Fun fact: Cats are one of, if not the most, popular pet in the world. ... </h1>
+### 🛠 My knowledge
 
 
 
