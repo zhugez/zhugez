@@ -21,4 +21,4 @@
 
 <b>My GitHub Stats</b>
 
-![](https://raw.githubusercontent.com/zhugez/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)
+![](https://raw.githubusercontent.com/zhugez/zhugez/master/profile-summary-card-output/2077/3-stats.svg)
