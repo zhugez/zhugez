@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zhugez/zhugez/master/gifs/lab.gif" width="100%" />
+  <img src="gifs/matrix_green.gif" width="100%" />
 </div>
 
 ### Hi there 👋
