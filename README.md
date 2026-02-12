@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gifs/matrix_green.gif" width="100%" />
+  <img src="https://www.synacktiv.com/sites/default/files/2020-07/SLIDER_02-largebis.gif" width="100%" />
 </div>
 
 ### Hi there 👋
