@@ -21,7 +21,9 @@
   <br>
   
   <div align="center">
-    [![Languages & Libraries](https://skillicons.dev/icons?i=js,html,css,sass,c,cpp,cs,java,go,python,ts,rust,latex)](https://skillicons.dev)
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,html,css,sass,c,cpp,cs,java,go,python,ts,rust,latex" alt="Languages &amp; Libraries">
+    </a>
   </div>
   <br>
 </details>
@@ -31,7 +33,9 @@
   <br>
 
   <div align="center">
-    [![AI & Machine Learning](https://skillicons.dev/icons?i=sklearn,pytorch,anaconda,tensorflow,opencv)](https://skillicons.dev)
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=sklearn,pytorch,anaconda,tensorflow,opencv" alt="AI &amp; Machine Learning">
+    </a>
   </div>
   <br>
 </details>
@@ -41,7 +45,9 @@
   <br>
 
   <div align="center">
-    [![Database & Storage Solutions](https://skillicons.dev/icons?i=redis,supabase,mongodb,sqlite,postgres)](https://skillicons.dev)
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=redis,supabase,mongodb,sqlite,postgres" alt="Database &amp; Storage Solutions">
+    </a>
   </div>
   <br>
 </details>
@@ -51,7 +57,9 @@
   <br>
 
   <div align="center">
-    [![Web Development](https://skillicons.dev/icons?i=astro,nextjs,nodejs,fastapi,flask,netlify,bun,react,threejs)](https://skillicons.dev)
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=astro,nextjs,nodejs,fastapi,flask,netlify,bun,react,threejs" alt="Web Development">
+    </a>
   </div>
   <br>
 </details>
@@ -61,7 +69,9 @@
   <br>
 
   <div align="center">
-    [![Testing](https://skillicons.dev/icons?i=selenium,postman)](https://skillicons.dev)
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=selenium,postman" alt="Testing">
+    </a>
   </div>
   <br>
 </details>
@@ -71,7 +81,9 @@
   <br>
 
   <div align="center">
-    [![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana)](https://skillicons.dev)
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Monitoring">
+    </a>
   </div>
   <br>
 </details>
@@ -81,7 +93,9 @@
   <br>
 
   <div align="center">
-    [![Development Tools](https://skillicons.dev/icons?i=aws,docker,git,powershell,bash,kali,arch,ubuntu,windows,linux)](https://skillicons.dev)
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=aws,docker,git,powershell,bash,kali,arch,ubuntu,windows,linux" alt="Development Tools">
+    </a>
   </div>
   <br>
 </details>
@@ -91,7 +105,9 @@
   <br>
 
   <div align="center">
-    [![IDEs & Collaboration](https://skillicons.dev/icons?i=neovim,vim,notion,obsidian,vscode,visualstudio,idea)](https://skillicons.dev)
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=neovim,vim,notion,obsidian,vscode,visualstudio,idea" alt="IDEs &amp; Collaboration">
+    </a>
   </div>
   <br>
 </details>
@@ -100,8 +116,10 @@
   <summary><strong> Business Process Management & Orchestration </strong> <sub> (click to expand) </sub></summary>
   <br>
 
-  <div align="center">  
-    [![Orchestration](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev)
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=rabbitmq" alt="Orchestration">
+    </a>
   </div>
   <br>
 </details>
@@ -111,7 +129,9 @@
   <br>
 
   <div align="center">
-    [![Design](https://skillicons.dev/icons?i=ai,ps,pr,ae,figma,blender)](https://skillicons.dev)
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,figma,blender" alt="Design">
+    </a>
   </div>
   <br>
 </details>
@@ -121,7 +141,9 @@
   <br>
 
   <div align="center">
-    [![Music](https://skillicons.dev/icons?i=ableton)](https://skillicons.dev)
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ableton" alt="Music">
+    </a>
   </div>
   <br>
 </details>
@@ -131,7 +153,9 @@
   <br>
 
   <div align="center">
-    [![IoT](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="IoT">
+    </a>
   </div>
   <br>
 </details>
@@ -141,7 +165,7 @@
 ### How to reach me: 
 
 <p align="center"> <a href="https://www.github.com/zhugez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/dezzhu1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.dev.to/zhugez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a> <a href="https://www.linkedin.com/in/dezzhu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.x.com/dezzhu1" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/dezzhu1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+<a href="https://www.x.com/dezzhu1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/dezzhu1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Follow @dezzhu1 on X" /></a>
 
 
 <b>My GitHub Stats</b>
