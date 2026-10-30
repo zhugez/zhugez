@@ -28,7 +28,7 @@ account before the passcode runs, an exported service that a local app can crash
 |  | **[Pingloom](https://pingloom.zhugez.workers.dev/)** | Floating ping and emote wheels for Windows, with experimental macOS support. `Rust` · `Tauri 2` · `Svelte 5` |
 |  | **[Pi-pulse](https://github.com/zhugez/Pi-pulse)** | Five extensions for the Pi coding agent: a loop guard that blocks byte-identical tool calls, a mutation gate, a CRAP-score gate, a comment checker, and in-flight diagnostics for the file being edited. `TypeScript` |
 |  | **[Pi-capsule](https://github.com/zhugez/Pi-capsule)** | Your Pi setup, packed for every machine. Exports and restores the `~/.pi/agent` config: extensions, skills, prompts, MCP servers, and models. `TypeScript` |
-|  | **[Cordyceps](https://github.com/zhugez/cordyceps)** | WordPress plugin scanner. It finds the guard a security patch adds, then uses a static AST reachability harness to drop every finding an attacker cannot actually reach. Runs as an OpenClaw skill over Mycelium and Patchstack data. `Python` |
+|  | **[Cordyceps](https://github.com/zhugez/Cordyceps)** | WordPress plugin scanner. It finds the guard a security patch adds, then uses a static AST reachability harness to drop every finding an attacker cannot actually reach. Runs as an OpenClaw skill over Mycelium and Patchstack data. `Python` |
 
 <h3>
   <img src="./gifs/roadsign.gif" width="40" align="middle"> Research and disclosures
