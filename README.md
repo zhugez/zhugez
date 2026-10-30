@@ -24,9 +24,10 @@ account before the passcode runs, an exported service that a local app can crash
 |:--|:--|:--|
 |  | **[TrustSee](https://trustsee.com)** | CVE baseline from NVD, OSV, and GHSA, ranked by CISA KEV and EPSS. Website, email, domain, and uptime posture checks, authorized red-team probes, and a dark-web feed. It exposes `scan_repo` over MCP, so Claude and Cursor queue scans without leaving the agent. `Next.js 16` · `React 19` · `Supabase` · `TinyFish` · `Playwright` |
 |  | **[ExoMind](https://github.com/zhugez/ExoMind)** | Memory and knowledge runtime. One store serves Pi, Hermes Agent, OpenClaw, and Codex. `Rust` |
-|  | **[pi-pulse](https://github.com/zhugez/pi-pulse)** | Five extensions for the Pi coding agent: a loop guard that blocks byte-identical tool calls, a mutation gate, a CRAP-score gate, a comment checker, and in-flight diagnostics for the file being edited. `TypeScript` |
 |  | **[stella](https://stella.zhugez.workers.dev)** | IELTS vocabulary site. 7,298 illustrated words with UK and US audio, scheduled with FSRS. `TypeScript` · `Cloudflare Workers` |
-|  | **[pingloom](https://github.com/zhugez/pingloom)** | Floating ping and emote wheels for Windows, with experimental macOS support. `Rust` · `Tauri 2` · `Svelte 5` |
+|  | **[pingloom](https://pingloom.zhugez.workers.dev/)** | Floating ping and emote wheels for Windows, with experimental macOS support. `Rust` · `Tauri 2` · `Svelte 5` |
+|  | **[pi-pulse](https://github.com/zhugez/pi-pulse)** | Five extensions for the Pi coding agent: a loop guard that blocks byte-identical tool calls, a mutation gate, a CRAP-score gate, a comment checker, and in-flight diagnostics for the file being edited. `TypeScript` |
+|  | **[pi-capsule](https://github.com/zhugez/pi-capsule)** | Your Pi setup, packed for every machine. Exports and restores the `~/.pi/agent` config: extensions, skills, prompts, MCP servers, and models. `TypeScript` |
 |  | **[Cordyceps](https://github.com/zhugez/cordyceps)** | WordPress plugin scanner. It finds the guard a security patch adds, then uses a static AST reachability harness to drop every finding an attacker cannot actually reach. Runs as an OpenClaw skill over Mycelium and Patchstack data. `Python` |
 
 <h3>
