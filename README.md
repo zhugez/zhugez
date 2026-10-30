@@ -1,6 +1,6 @@
 <div align="center">
 
-Offensive security researcher. I write vulnerability scanners, and I read security patches for the guard they add.
+Offensive security researcher focused on vulnerability research and red teaming.
 
 Vulnerability research · coding-agent tooling · Rust, TypeScript, and Python
 
