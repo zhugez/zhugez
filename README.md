@@ -1,7 +1,6 @@
 <div align="center">
 
-Security researcher. I write vulnerability scanners, and I read security patches
-for the guard they add.
+Offensive security researcher. I build vulnerability scanners and dig through security patches to find what they fix and what they miss.
 
 Vulnerability research · coding-agent tooling · Rust, TypeScript, and Python
 
@@ -12,11 +11,9 @@ Vulnerability research · coding-agent tooling · Rust, TypeScript, and Python
 
 </div>
 
-The finding I keep landing on is the same shape: a component that is exported to
-the outside world, and then trusts what it is handed. Three of my four Telegram
-for Android findings are that shape — an exported intent handler that redirects
-an OAuth token before authentication, an unclamped intent extra that switches
-account before the passcode runs, an exported service that a local app can crash.
+- Working on offensive security: vulnerability research, red team operations, and security automation
+- Also into malware reverse engineering and applied ML for security
+- Open to collaborating on research and turning ideas into real open-source tools
 
 ## Selected work
 
