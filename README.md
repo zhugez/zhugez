@@ -40,7 +40,7 @@ account before the passcode runs, an exported service that a local app can crash
 | AISEI 2026, IEEE | Biometric Identification Through Auditory EEG Signatures | [Published](https://doi.org/10.1109/AISEI68628.2026.11572950). |
 | SSRC 2026 | Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification | [Published](https://ssrc.fit.iuh.edu.vn/conf/article/view/267). |
 | APSIPA ASC 2026 | Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification | Accepted. |
-| ATC 2024 | Native runtime bootstrapper and container-runner detection with machine learning | Presented. |
+| ATC 2024 | Malware detection with machine learning and deep learning | Presented. |
 
 **Disclosures.** Severity is CVSS.
 
