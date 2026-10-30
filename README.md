@@ -8,6 +8,7 @@ Vulnerability research · coding-agent tooling · Rust, TypeScript, and Python
 [![X](https://img.shields.io/badge/X-%40dezzhu1-52525b?style=flat-square&logo=x&logoColor=white)](https://x.com/dezzhu1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dezzhu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dezzhu)
 [![dev.to](https://img.shields.io/badge/dev.to-zhugez-52525b?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/zhugez)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/zhugez)
 
 </div>
 
