@@ -4,7 +4,7 @@ Offensive security researcher focused on vulnerability research and red teaming.
 
 Vulnerability research · coding-agent tooling · Rust, TypeScript, and Python
 
-[![Blog](https://img.shields.io/badge/Blog-shadowforge-52525b?style=flat-square&logo=vercel&logoColor=white)](https://shadowforge.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shadowforge-52525b?style=flat-square&logo=vercel&logoColor=white)](https://shadowforge.vercel.app/)
 [![X](https://img.shields.io/badge/X-%40dezzhu1-52525b?style=flat-square&logo=x&logoColor=white)](https://x.com/dezzhu1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dezzhu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dezzhu)
 [![dev.to](https://img.shields.io/badge/dev.to-zhugez-52525b?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/zhugez)
