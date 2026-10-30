@@ -1,7 +1,5 @@
 <div align="center">
 
-# zhugez
-
 Security researcher. I write vulnerability scanners, and I read security patches
 for the guard they add.
 
