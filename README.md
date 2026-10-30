@@ -1,196 +1,96 @@
 <div align="center">
-  <img src="https://www.synacktiv.com/sites/default/files/2020-07/SLIDER_02-largebis.gif" width="30%" />
+
+# Lý Ngọc Vũ
+
+Security researcher. I write vulnerability scanners, and I test the boundary
+where a runtime hands control to untrusted code.
+
+[![X](https://img.shields.io/badge/-%40dezzhu1-000?style=flat-square&logo=x&logoColor=white)](https://x.com/dezzhu1)
+[![LinkedIn](https://img.shields.io/badge/-dezzhu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dezzhu)
+[![dev.to](https://img.shields.io/badge/-zhugez-000?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/zhugez)
+[![Site](https://img.shields.io/badge/-shadowforge-1c1917?style=flat-square&logo=vercel&logoColor=white)](https://shadowforge.vercel.app/)
+
 </div>
 
-### Hi there 👋
- - 🔭 I’m currently working on Cyber Security.
-- 🌱 I’m currently learning Computer Science.
-- 👯 I’m looking to collaborate on research.
-- 🤔 I’m looking for help with scaling research ideas into real-world open-source projects.
-- 💬 Ask me about CyberSec, Red Team operations, malware reverse engineering, and security automation.
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: Cats are one of, if not the most, popular pet in the world. ... 
-
-<div align="center">
-  <h3>
-    <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="65" align="middle"> My Toolbox
-  </h3>
-</div>
-<details>
-  <summary><strong> Languages & Libraries </strong> <sub> (click to expand) </sub></summary>
-  <br>
-  
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css,sass,c,cpp,cs,java,go,python,ts,rust,latex" alt="Languages &amp; Libraries">
-    </a>
-  </div>
-  <br>
-</details>
-
-<details>
-  <summary><strong> AI & Machine Learning </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sklearn,pytorch,anaconda,tensorflow,opencv" alt="AI &amp; Machine Learning">
-    </a>
-  </div>
-  <br>
-</details>
-
-<details>
-  <summary><strong> Database & Storage Solutions </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=redis,supabase,mongodb,sqlite,postgres" alt="Database &amp; Storage Solutions">
-    </a>
-  </div>
-  <br>
-</details>
-
-<details>
-  <summary><strong> Web Development, Interactive Application & Visualisations </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=astro,nextjs,nodejs,fastapi,flask,netlify,bun,react,threejs" alt="Web Development">
-    </a>
-  </div>
-  <br>
-</details>
-
-<details>
-  <summary><strong> Testing </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=selenium,postman" alt="Testing">
-    </a>
-  </div>
-  <br>
-</details>
-
-<details>
-  <summary><strong> Monitoring </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Monitoring">
-    </a>
-  </div>
-  <br>
-</details>
-
-<details>
-  <summary><strong> Development Tools </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,docker,git,powershell,bash,kali,arch,ubuntu,windows,linux" alt="Development Tools">
-    </a>
-  </div>
-  <br>
-</details>
-
-<details>
-  <summary><strong> IDEs & Collaboration Platforms </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=neovim,vim,notion,obsidian,vscode,visualstudio,idea" alt="IDEs &amp; Collaboration">
-    </a>
-  </div>
-  <br>
-</details>
-
-<details>
-  <summary><strong> Business Process Management & Orchestration </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" alt="Orchestration">
-    </a>
-  </div>
-  <br>
-</details>
-
-<details>
-  <summary><strong> Photography/Videography & Design </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,figma,blender" alt="Design">
-    </a>
-  </div>
-  <br>
-</details>
-
-<details>
-  <summary><strong> Music Technology & Audio Engineering </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ableton" alt="Music">
-    </a>
-  </div>
-  <br>
-</details>
-
-<details>
-  <summary><strong> Microcontrollers & IoT </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="IoT">
-    </a>
-  </div>
-  <br>
-</details>
-
-<div align="center">
-
-### How to reach me: 
-
-<p align="center"> <a href="https://www.github.com/zhugez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/dezzhu1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.dev.to/zhugez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a> <a href="https://www.linkedin.com/in/dezzhu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.x.com/dezzhu1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/dezzhu1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Follow @dezzhu1 on X" /></a>
-
-
-<b>My GitHub Stats</b>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=zhugez&theme=catppuccin-mocha)](https://git.io/streak-stats)
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=zhugez&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=2E3440&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=true"/>
-  </a> 
-</p>
 <h3>
-  <img src="https://raw.githubusercontent.com/zhugez/zhugez/master/gifs/lab.gif" width="65" align="middle"> Learning Lab
+  <img src="./gifs/lab.gif" width="55" align="middle"> Selected work
 </h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zhugez/zhugez/master/gifs/roadsign.gif" width="40" align="middle">
-  &nbsp;&nbsp;&nbsp; BUT FIRST THIS &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/zhugez/zhugez/master/gifs/roadsign.gif" width="40" align="middle">  
-</p>
-Most of the code you stumble upon here is just me monkeying around... 🐒 <br>
-My GitHub showcases my experimentation with new technologies, hobby projects, and learning experiences. Please consider it a glimpse into my exploration 🧪 rather than a testament to my professional abilities 🦸.
-<p align="center">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzhugez">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzhugez&label=visitors&labelColor=%232d3440&countColor=%2380a0c0&style=flat-square" />
-  </a>
-</p>
+| | Project | What it does |
+|:--|:--|:--|
+| 🛡 | **[TrustSee](https://trustsee.com)** | Security platform for small software teams. It scans repositories, monitors attack surface, and runs authorized red-team probes. Separate modules check website configuration, SPF, DKIM, and DMARC records, and dark-web sources. `Next.js` · `Netlify` |
+| 🧠 | **[ExoMind](https://github.com/zhugez/ExoMind)** | Memory and knowledge runtime. One store serves Pi, Hermes Agent, OpenClaw, and Codex. `Rust` |
+| 📚 | **[stella](https://stella.zhugez.workers.dev)** | IELTS vocabulary site. It holds 7,298 illustrated words with UK and US audio. It schedules review with FSRS. `TypeScript` · `Cloudflare Workers` |
+| 🛠 | **[pi-pulse](https://github.com/zhugez/pi-pulse)** | Extensions for the Pi coding agent. `TypeScript` |
+| 🌍 | **[WanderLens](https://wanderlens.vercel.app)** | Illustrated travel blog. `Astro` · `MDX` · `Tailwind` |
+| 🖥 | **[pingloom](https://github.com/zhugez/pingloom)** | Desktop app for ping and emote wheels. It runs on Windows, with experimental macOS support. `Rust` · `Tauri 2` · `Svelte 5` |
+| 🔬 | **[Cordyceps](https://github.com/zhugez/cordyceps)** | WordPress plugin scanner. It finds the guard that a security patch adds, then uses a static AST reachability harness to drop the findings an attacker cannot reach. It runs as an OpenClaw skill on Mycelium and Patchstack data. `Python` |
 
-</div>
+<h3>
+  <img src="./gifs/roadsign.gif" width="40" align="middle"> Research and disclosures
+</h3>
+
+**Publications.** I am first author on all four.
+
+| Venue | Title | Status |
+|:--|:--|:--|
+| AISEI 2026, IEEE | Biometric Identification Through Auditory EEG Signatures | [Published](https://doi.org/10.1109/AISEI68628.2026.11572950). |
+| SSRC 2026 | Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification | [Published](https://ssrc.fit.iuh.edu.vn/conf/article/view/267). |
+| APSIPA ASC 2026 | Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification | Accepted. |
+| ATC 2024 | Native runtime bootstrapper and container-runner detection with machine learning | Presented. |
+
+**Awards.** YSC 2025, Consolation Prize. Certified AppSec Practitioner (CAP).
+
+**Disclosures.**
+
+| Target | Findings | Status |
+|:--|:--|:--|
+| Telegram for Android | 4. Two High (7.5, 7.1), two Medium (5.5) | Submitted. |
+| Patchstack | 2. Broken Access Control, Medium | Accepted. |
+| IUH | 3. Two High (8.7), one Medium (6.9) | Accepted. |
+
+<h3>
+  <img src="./gifs/toolkit.gif" width="55" align="middle"> Toolkit
+</h3>
+
+<details>
+  <summary><strong>Languages and libraries</strong></summary>
+  <br>
+  <img src="https://skillicons.dev/icons?i=js,html,css,sass,c,cpp,cs,java,go,python,ts,rust,latex" alt="Languages and libraries">
+</details>
+
+<details>
+  <summary><strong>AI and machine learning</strong></summary>
+  <br>
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,anaconda,tensorflow,opencv" alt="AI and machine learning">
+</details>
+
+<details>
+  <summary><strong>Web and interactive applications</strong></summary>
+  <br>
+  <img src="https://skillicons.dev/icons?i=astro,nextjs,nodejs,fastapi,flask,netlify,bun,react,threejs" alt="Web">
+</details>
+
+<details>
+  <summary><strong>Data and storage</strong></summary>
+  <br>
+  <img src="https://skillicons.dev/icons?i=redis,supabase,mongodb,sqlite,postgres" alt="Data and storage">
+</details>
+
+<details>
+  <summary><strong>Infrastructure, tooling, and testing</strong></summary>
+  <br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,powershell,bash,kali,arch,ubuntu,windows,linux,prometheus,grafana,rabbitmq,selenium,postman" alt="Infrastructure and tooling">
+</details>
+
+<details>
+  <summary><strong>IDEs, design, and media</strong></summary>
+  <br>
+  <img src="https://skillicons.dev/icons?i=neovim,vim,notion,obsidian,vscode,visualstudio,idea,ai,ps,pr,ae,figma,blender,ableton" alt="IDEs and design">
+</details>
+
+<details>
+  <summary><strong>Microcontrollers and IoT</strong></summary>
+  <br>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Microcontrollers and IoT">
+</details>
