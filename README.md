@@ -5,13 +5,10 @@ for the guard they add.
 
 Vulnerability research · coding-agent tooling · Rust, TypeScript, and Python
 
-[![Blog](https://img.shields.io/badge/Blog-shadowforge-1c1917?style=flat-square&logo=vercel&logoColor=white#gh-light-mode-only)](https://shadowforge.vercel.app/)
-[![Blog](https://img.shields.io/badge/Blog-shadowforge-f5f5f4?style=flat-square&logo=vercel&logoColor=111111#gh-dark-mode-only)](https://shadowforge.vercel.app/)
-[![X](https://img.shields.io/badge/X-%40dezzhu1-111111?style=flat-square&logo=x&logoColor=white#gh-light-mode-only)](https://x.com/dezzhu1)
-[![X](https://img.shields.io/badge/X-%40dezzhu1-f5f5f4?style=flat-square&logo=x&logoColor=111111#gh-dark-mode-only)](https://x.com/dezzhu1)
+[![Blog](https://img.shields.io/badge/Blog-shadowforge-52525b?style=flat-square&logo=vercel&logoColor=white)](https://shadowforge.vercel.app/)
+[![X](https://img.shields.io/badge/X-%40dezzhu1-52525b?style=flat-square&logo=x&logoColor=white)](https://x.com/dezzhu1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dezzhu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dezzhu)
-[![dev.to](https://img.shields.io/badge/dev.to-zhugez-0A0A0A?style=flat-square&logo=devdotto&logoColor=white#gh-light-mode-only)](https://dev.to/zhugez)
-[![dev.to](https://img.shields.io/badge/dev.to-zhugez-f5f5f4?style=flat-square&logo=devdotto&logoColor=111111#gh-dark-mode-only)](https://dev.to/zhugez)
+[![dev.to](https://img.shields.io/badge/dev.to-zhugez-52525b?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/zhugez)
 
 </div>
 
