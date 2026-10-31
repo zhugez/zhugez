@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#36BCF7;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      @keyframes glow {
+        0%, 100% { filter: drop-shadow(0 0 4px #36BCF7); }
+        50% { filter: drop-shadow(0 0 12px #36BCF7); }
+      }
+      @keyframes scan {
+        0% { transform: translateY(-20px); opacity: 0; }
+        50% { opacity: 0.6; }
+        100% { transform: translateY(180px); opacity: 0; }
+      }
+      .title {
+        font-family: 'Fira Code', 'Courier New', monospace;
+        font-size: 48px;
+        font-weight: bold;
+        fill: url(#grad);
+        animation: glow 2.5s ease-in-out infinite;
+      }
+      .scanline {
+        fill: none;
+        stroke: #36BCF7;
+        stroke-width: 1;
+        opacity: 0.3;
+        animation: scan 4s linear infinite;
+      }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  <line class="scanline" x1="0" y1="0" x2="800" y2="0"/>
+  <text class="title" x="50%" y="55%" text-anchor="middle" dominant-baseline="middle">zhugez</text>
+  <text x="50%" y="75%" text-anchor="middle" font-family="monospace" font-size="14" fill="#36BCF7" opacity="0.7">offensive security · red team · research</text>
+</svg>
