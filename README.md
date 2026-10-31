@@ -9,15 +9,15 @@
 <br>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Offensive+Security+Researcher;Vulnerability+Research+%26+Red+Teaming;Malware+RE+%C2%B7+Applied+ML;Rust+%C2%B7+TypeScript+%C2%B7+Python;Coding-Agent+Tooling;Open+to+Collaboration&font=Fira%20Code&center=true&width=480&height=45&duration=3500&pause=800&color=36BCF7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Offensive+Security+Researcher;Vulnerability+Research+%26+Red+Teaming;Malware+RE+%C2%B7+Applied+ML;Rust+%C2%B7+TypeScript+%C2%B7+Python;Coding-Agent+Tooling;Open+to+Collaboration&font=Fira%20Code&center=true&width=480&height=45&duration=3500&pause=800&color=89b4fa" alt="Typing SVG" />
 </a>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shadowforge-52525b?style=flat-square&logo=vercel&logoColor=white)](https://shadowforge.vercel.app/)
-[![X](https://img.shields.io/badge/X-%40dezzhu1-52525b?style=flat-square&logo=x&logoColor=white)](https://x.com/dezzhu1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dezzhu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dezzhu)
-[![dev.to](https://img.shields.io/badge/dev.to-zhugez-52525b?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/zhugez)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shadowforge-313244?style=flat-square&logo=vercel&logoColor=cdd6f4)](https://shadowforge.vercel.app/)
+[![X](https://img.shields.io/badge/X-%40dezzhu1-313244?style=flat-square&logo=x&logoColor=cdd6f4)](https://x.com/dezzhu1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dezzhu-313244?style=flat-square&logo=linkedin&logoColor=89b4fa)](https://www.linkedin.com/in/dezzhu)
+[![dev.to](https://img.shields.io/badge/dev.to-zhugez-313244?style=flat-square&logo=devdotto&logoColor=cdd6f4)](https://dev.to/zhugez)
 
 </div>
 
@@ -47,12 +47,12 @@ Open to collaborating on research and turning ideas into real open-source tools.
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhugez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhugez&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zhugez&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhugez&layout=compact&theme=catppuccin_mocha&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zhugez&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=zhugez&theme=catppuccin-mocha&hide_border=true" />
 </p>
 
 ## Latest blog posts
