@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="./gifs/matrix_green.gif" alt="matrix" width="200"/>
+<img src="./gifs/hacker_video_animation_opt.gif" alt="hacker animation" width="220"/>
 
 <br>
 
@@ -55,6 +55,11 @@ Open to collaborating on research and turning ideas into real open-source tools.
   <img src="https://streak-stats.demolab.com/?user=zhugez&theme=tokyonight&hide_border=true" />
 </p>
 
+## Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Research & disclosures
 
 **Publications** (first author): AISEI 2026 IEEE, SSRC 2026, APSIPA ASC 2026, ATC 2024.
@@ -68,3 +73,8 @@ Open to collaborating on research and turning ideas into real open-source tools.
 [Blog](https://shadowforge.vercel.app/) · [X](https://x.com/dezzhu1) · [LinkedIn](https://www.linkedin.com/in/dezzhu) · [dev.to](https://dev.to/zhugez)
 
 Open to work.
+
+<!--
+Optional: add Spotify now-playing after setup at https://spotify-github-profile.kittinanx.com
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&theme=novatorem&show_offline=true" />
+-->
