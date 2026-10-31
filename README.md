@@ -23,12 +23,6 @@ Working on **offensive security**: vulnerability research, red team operations, 
 Also into malware reverse engineering and applied ML for security.  
 Open to collaborating on research and turning ideas into real open-source tools.
 
-## Live projects
-
-- **[TrustSee](https://trustsee.com)** — CVE baseline (NVD/OSV/GHSA) ranked by KEV + EPSS, posture checks, dark-web feed, MCP `scan_repo`
-- **[Stella](https://stella.zhugez.workers.dev)** — Illustrated IELTS vocab (7.3k words + audio + FSRS)
-- **[ShadowForge](https://shadowforge.vercel.app/)** — Portfolio site
-
 ## Selected work
 
 | Project | What it does |
@@ -61,8 +55,6 @@ Open to collaborating on research and turning ideas into real open-source tools.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-*Blog auto-updates from [dev.to/zhugez](https://dev.to/zhugez) via GitHub Actions. Feed currently returns 404 — add posts or change feed URL to populate this section.*
 
 ## Research & disclosures
 
