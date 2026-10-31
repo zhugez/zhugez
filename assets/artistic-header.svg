@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
   <defs>
     <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="45%" stop-color="#36BCF7"/>
-      <stop offset="100%" stop-color="#7ee8ff"/>
+      <stop offset="0%" stop-color="#cdd6f4"/>
+      <stop offset="50%" stop-color="#89b4fa"/>
+      <stop offset="100%" stop-color="#74c7ec"/>
     </linearGradient>
     <filter id="glow">
-      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
       <feMerge>
         <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -14,12 +14,12 @@
     </filter>
     <style>
       @keyframes pulse {
-        0%, 100% { opacity: 0.85; }
+        0%, 100% { opacity: 0.9; }
         50% { opacity: 1; }
       }
       @keyframes float {
         0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-4px); }
+        50% { transform: translateY(-3px); }
       }
       .main-title {
         font-family: 'Fira Code', 'JetBrains Mono', monospace;
@@ -32,28 +32,28 @@
       .subtitle {
         font-family: 'Fira Code', monospace;
         font-size: 15px;
-        fill: #8b9bb4;
+        fill: #a6adc8;
         letter-spacing: 2px;
         animation: float 4s ease-in-out infinite;
       }
       .accent-line {
-        stroke: #36BCF7;
+        stroke: #74c7ec;
         stroke-width: 1.5;
-        opacity: 0.6;
+        opacity: 0.5;
       }
     </style>
   </defs>
 
-  <!-- Dark background with subtle grid -->
-  <rect width="100%" height="100%" fill="#0d1117"/>
+  <!-- Mocha base background + subtle grid -->
+  <rect width="100%" height="100%" fill="#1e1e2e"/>
   <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1a2332" stroke-width="0.5"/>
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#313244" stroke-width="0.5"/>
   </pattern>
-  <rect width="100%" height="100%" fill="url(#grid)" opacity="0.4"/>
+  <rect width="100%" height="100%" fill="url(#grid)" opacity="0.35"/>
 
   <!-- Accent lines -->
   <line class="accent-line" x1="80" y1="70" x2="820" y2="70"/>
-  <line class="accent-line" x1="80" y1="145" x2="820" y2="145" opacity="0.3"/>
+  <line class="accent-line" x1="80" y1="145" x2="820" y2="145" opacity="0.25"/>
 
   <!-- Title -->
   <text class="main-title" x="50%" y="115" text-anchor="middle">zhugez</text>
