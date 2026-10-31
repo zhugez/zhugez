@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/artistic-header.svg" alt="zhugez artistic header" width="100%"/>
-
-<br>
-
 <img src="./gifs/hacker_video_animation_opt.gif" alt="hacker animation" width="220"/>
 
 <br>
