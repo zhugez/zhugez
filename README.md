@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="./gifs/hacker_avatar_animation_optimized.gif" alt="hacker" width="180"/>
+<img src="./gifs/matrix_green.gif" alt="matrix" width="200"/>
 
 <br>
 
