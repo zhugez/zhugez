@@ -28,7 +28,7 @@ Open to collaborating on research and turning ideas into real open-source tools.
 | Project | What it does |
 | --- | --- |
 | **[TrustSee](https://trustsee.com)** | CVE baseline (NVD/OSV/GHSA) ranked by KEV + EPSS. Posture checks, authorized probes, dark-web feed, MCP `scan_repo`. Next.js · TS |
-| **[ExoMind](https://github.com/zhugez/ExoMind)** | Portable knowledge & memory runtime for Pi / Hermes / OpenClaw / Codex. Rust |
+| **[ExoMind](https://github.com/zhugez/ExoMind)** | Portable knowledge & memory runtime for Pi / Hermes / OpenClaw / Codex. Rust. [Live](https://zhugez.github.io/ExoMind/) |
 | **[Stella](https://github.com/zhugez/Stella)** | Illustrated IELTS vocab (7.3k words + audio + FSRS). [Live](https://stella.zhugez.workers.dev) |
 | **[Pingloom](https://github.com/zhugez/Pingloom)** | Native desktop ping & emote wheels. Tauri 2 · Svelte 5 · Rust |
 | **[Pi-pulse](https://github.com/zhugez/Pi-pulse)** | Extensions for the Pi coding agent (guards, diagnostics…). TS |
