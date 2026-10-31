@@ -58,7 +58,14 @@ Open to collaborating on research and turning ideas into real open-source tools.
 
 ## Research & disclosures
 
-**Publications** (first author): AISEI 2026 IEEE, SSRC 2026, APSIPA ASC 2026, ATC 2024.
+**Publications** (first author):
+
+| Venue | Title | Status |
+| --- | --- | --- |
+| [AISEI 2026, IEEE](https://jadara.edu.jo/aisei2026/) | Biometric Identification Through Auditory EEG Signatures | Published |
+| [SSRC 2026](https://ssrc.fit.iuh.edu.vn/) | Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification | Published |
+| [APSIPA ASC 2026](https://apsipa2026.org/) | Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification | Accepted |
+| [ATC 2024](https://ieeexplore.ieee.org/xpl/conhome/10908109/proceeding) | Windows Malware Detection: Exploring from Machine Learning to Text-Based Deep Learning Approaches | Presented |
 
 **Disclosures**: Telegram Android (4 findings, incl. High), Patchstack (2 Medium, accepted), IUH (3, accepted).
 
