@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:36BCF7&height=180&section=header&text=zhugez&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="./assets/artistic-header.svg" alt="zhugez artistic header" width="100%"/>
 
 <br>
 
