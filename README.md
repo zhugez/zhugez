@@ -43,10 +43,10 @@ TypeScript, JavaScript, Python, Rust, and C++ for the work above. React, Next.js
 
 | Venue | Title | Status |
 | --- | --- | --- |
-| AISEI 2026, IEEE | Biometric Identification Through Auditory EEG Signatures | [Published](https://doi.org/10.1109/AISEI68628.2026.11572950). |
-| SSRC 2026 | Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification | [Published](https://ssrc.fit.iuh.edu.vn/conf/article/view/267). |
-| APSIPA ASC 2026 | Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification | Accepted. |
-| ATC 2024 | Malware detection with machine learning and deep learning | Presented. |
+| AISEI 2026, IEEE | [Biometric Identification Through Auditory EEG Signatures](https://doi.org/10.1109/AISEI68628.2026.11572950) | Published |
+| SSRC 2026 | [Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification](https://ssrc.fit.iuh.edu.vn/conf/article/view/267) | Published |
+| APSIPA ASC 2026 | Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification | Accepted |
+| ATC 2024 | Windows Malware Detection: Exploring from Machine Learning to Text-Based Deep Learning Approaches | Presented |
 
 **Disclosures.** Severity is CVSS.
 
