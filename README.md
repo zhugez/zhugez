@@ -27,6 +27,8 @@ Open to collaborating on research and turning ideas into real open-source tools.
 
 | Project | What it does |
 | --- | --- |
+| **[dross](https://github.com/zhugez/dross)** | Conservative disk cleaner for Fedora/WSL (read-only default, du-verified). Rust. [Live](https://dross.zhugez.workers.dev) |
+| **[Pi-capsule](https://github.com/zhugez/Pi-capsule)** | Portable setup capsule for Pi Coding Agent (secrets stay home). Bash · JS · PS. [Live](https://pi-capsule.zhugez.workers.dev) |
 | **[TrustSee](https://trustsee.com)** | CVE baseline (NVD/OSV/GHSA) ranked by KEV + EPSS. Posture checks, authorized probes, dark-web feed, MCP `scan_repo`. Next.js · TS |
 | **[ExoMind](https://github.com/zhugez/ExoMind)** | Portable knowledge & memory runtime for Pi / Hermes / OpenClaw / Codex. Rust. [Live](https://3x0mind.vercel.app/) |
 | **[Stella](https://github.com/zhugez/Stella)** | Illustrated IELTS vocab (7.3k words + audio + FSRS). [Live](https://stella.zhugez.workers.dev) |
