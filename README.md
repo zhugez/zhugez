@@ -42,16 +42,21 @@ Open to collaborating on research and building reliable open-source tooling.
 | **[APSIPA ASC 2026](https://apsipa2026.org/)** | Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification | Accepted |
 | **[ATC 2024, IEEE](https://ieeexplore.ieee.org/xpl/conhome/10908109/proceeding)** | [Windows Malware Detection: Exploring from Machine Learning to Text-Based Deep Learning Approaches](https://ieeexplore.ieee.org/xpl/conhome/10908109/proceeding) | Presented |
 
-## 🏆 Honors & Certifications
+## 🏆 Honors & Competitions
 
-| Credential / Award | Organization & Context | Status |
+| Honor / Recognition | Organization & Context | Year |
 | --- | --- | --- |
-| 🎓 **Australia-Vietnam Strategic Technologies Scholarship (2025)** | Awarded by **University of Technology Sydney (UTS)** for emerging tech research; selected nationwide (AUD 500 grant) | Recipient |
+| 🎓 **Australia-Vietnam Strategic Technologies Scholarship** | Awarded by **University of Technology Sydney (UTS)** for emerging tech research; selected nationwide (AUD 500 grant) | 2025 |
 | 🚩 **Global CTF Competitor** | **[Ranked #65 Globally on CTFtime](https://ctftime.org/user/114064)** • **Ranked #30 in WhiteHat Play 11** | Active |
-| 🏅 **Certified AppSec Practitioner (CAP)** | **[Certified](https://github.com/zhugez/Awards-and-Qualifications/blob/main/Certs/LyNgocVu-CertifiedAppSecPractitioner(CAP).pdf)** • The SecOps Group | Certified |
-| 🎖️ **YSC 2025 — Consolation Prize** | EEG-based biometric identification with deep metric learning & open-set rejection | Awarded |
-| 🛡️ **Certified Red Team Analyst (CRTA)** | [CyberWarFare Labs](https://cyberwarfare.live/certifications/red-team-analyst-crta) — Practical Red Team Operations | *Pending* |
-| 🌐 **Burp Suite Certified Practitioner (BSCP)** | [PortSwigger Web Security](https://portswigger.net/web-security/certification) — Advanced Web Application Security | *Pending* |
+| 🎖️ **YSC Consolation Prize** | Young Scientist Conference — EEG-based biometric identification with deep metric learning | 2025 |
+
+## 📜 Professional Certifications
+
+| Certification | Issuer | Status |
+| --- | --- | --- |
+| 🏅 **Certified AppSec Practitioner (CAP)** | The SecOps Group | **[Certified](https://github.com/zhugez/Awards-and-Qualifications/blob/main/Certs/LyNgocVu-CertifiedAppSecPractitioner(CAP).pdf)** |
+| 🛡️ **Certified Red Team Analyst (CRTA)** | [CyberWarFare Labs](https://cyberwarfare.live/certifications/red-team-analyst-crta) | *In Progress / Pending* |
+| 🌐 **Burp Suite Certified Practitioner (BSCP)** | [PortSwigger Web Security](https://portswigger.net/web-security/certification) | *In Progress / Pending* |
 
 ## 📚 Popular Tech Blogs
 
