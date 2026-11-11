@@ -42,11 +42,13 @@ Open to collaborating on research and building reliable open-source tooling.
 | **[APSIPA ASC 2026](https://apsipa2026.org/)** | Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification | Accepted |
 | **[ATC 2024, IEEE](https://ieeexplore.ieee.org/xpl/conhome/10908109/proceeding)** | [Windows Malware Detection: Exploring from Machine Learning to Text-Based Deep Learning Approaches](https://ieeexplore.ieee.org/xpl/conhome/10908109/proceeding) | Presented |
 
-## 🏆 Honors & Certifications
+## 🏆 Honors & Competitions
 
-| Credential / Award | Issuer & Details |
+| Credential / Award | Organization & Context |
 | --- | --- |
-| 🏅 **Certified AppSec Practitioner (CAP)** | The SecOps Group |
+| 🎓 **Australia-Vietnam Strategic Technologies Scholarship (2025)** | Awarded by **University of Technology Sydney (UTS)** for academic performance and contributions to emerging technologies; selected nationwide to attend the Strategic Technologies Symposium with an AUD 500 academic grant |
+| 🚩 **Global CTF Competitor** | **[Ranked #65 Globally on CTFtime](https://ctftime.org/user/114064)** • **Ranked #30 in WhiteHat Play 11** |
+| 🏅 **Certified AppSec Practitioner (CAP)** | **[Certified](https://github.com/zhugez/Awards-and-Qualifications/blob/main/Certs/LyNgocVu-CertifiedAppSecPractitioner(CAP).pdf)** • The SecOps Group |
 | 🎖️ **YSC 2025 — Consolation Prize** | EEG-based biometric identification with deep metric learning & open-set rejection |
 
 ## 🛠️ Selected Engineering Work
