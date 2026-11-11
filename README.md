@@ -28,7 +28,7 @@ Open to collaborating on research and building reliable open-source tooling.
 | Target / Ecosystem | Findings & Attack Surface | Severity | Status |
 | --- | --- | --- | --- |
 | **Telegram for Android** | **TG-01**: Native C++ descriptor truncation in `Utilities.readlinkFd` procfs resolving<br>**TG-02**: Exported `OpenChatReceiver` intent extra forwarding into unauthenticated `LaunchActivity` OAuth flow | **7.5 High**<br><br>**7.1 High** | **Pending Resolve** |
-| **Patchstack (WordPress)** | **[CVE-2026-123468](https://patchstack.com/database/wordpress/plugin/motors-car-dealership-classified-listings/vulnerability/wordpress-motors-plugin-1-4-128-broken-access-control-vulnerability)**: Broken Access Control in *Motors — Car Dealership & Classified Listings* (<= 1.4.128)<br>• Broken Access Control in *Upsell Order Bump Offer for WooCommerce* (Medium)<br>• Broken Access Control in undisclosed commercial CRM plugin (Medium) | **4.3 Medium**<br><br>**Medium** | **Published** *(CVE Assigned)*<br><br>**Validated** |
+| **WordPress Ecosystem**<br>*([Wordfence Profile](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/zhugez))* | **[CVE-2026-119514](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/zhugez)**: Privilege Escalation & Access Control in *RepairBuddy CRM* (<= 4.1234)<br>**[CVE-2026-123468](https://patchstack.com/database/wordpress/plugin/motors-car-dealership-classified-listings/vulnerability/wordpress-motors-plugin-1-4-128-broken-access-control-vulnerability)**: Broken Access Control in *Motors — Car Dealership* (<= 1.4.128)<br>**[CVE-2026-115431](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/zhugez)**: Broken Access Control in *Upsell Funnel Builder for WooCommerce* (<= 3.1.6) | **6.3 Med**<br><br>**4.3 Med**<br><br>**4.3 Med** | **Published**<br><br>**Published**<br><br>**Published** |
 | **IUH Academic System** | 3 findings: Sensitive credential leak (Gitleaks, 8.7), arbitrary sensitive file exposure (8.7), and reflected client-side DOM sink injection (6.9) | **8.7 High**<br>**6.9 Medium** | **Validated & Resolved** |
 
 ## 📜 Research & Publications
@@ -53,17 +53,26 @@ Open to collaborating on research and building reliable open-source tooling.
 | 🛡️ **Certified Red Team Analyst (CRTA)** | [CyberWarFare Labs](https://cyberwarfare.live/certifications/red-team-analyst-crta) — Practical Red Team Operations | *Pending* |
 | 🌐 **Burp Suite Certified Practitioner (BSCP)** | [PortSwigger Web Security](https://portswigger.net/web-security/certification) — Advanced Web Application Security | *Pending* |
 
+## 📚 Popular Tech Blogs
+
+- 🖥️ **[Repurposing Remote Desktop Applications as Strategic C2](https://wanderlens.vercel.app/posts/remotedesktopappexploit/)**  
+  Exploring lateral movement, token extraction, and covert persistence through abused legitimate remote desktop software.
+- ⚡ **[Windows Admin-to-Kernel Elevation of Privilege: CVE-2024-21338](https://wanderlens.vercel.app/posts/cve2024_21338/input/)**  
+  Deep dive into the `appid.sys` zero-day kernel exploit, arbitrary read/write primitives, and DKOM-based token stealing.
+- 🥷 **[Windows Internals: The Art of Self-Deletion](https://wanderlens.vercel.app/posts/selfdelete/)**  
+  Analyzing file-lock bypassing and in-memory NTFS alternate data stream manipulation for clean artifact removal.
+
 ## 🛠️ Selected Engineering Work
 
-| Project | What it does | Stack |
+| Project | Highlights & Capabilities | Stack |
 | --- | --- | --- |
-| **[TrustSee](https://trustsee.com)** | CVE baseline (NVD/OSV/GHSA) ranked by KEV + EPSS. Posture checks, authorized probes, dark-web feed, MCP `scan_repo`. | Next.js · TS · Supabase |
-| **[ExoMind](https://github.com/zhugez/ExoMind)** | Portable knowledge & memory runtime for Pi, Hermes, OpenClaw, and Codex. [Live Demo](https://3x0mind.vercel.app/) | Rust · RocksDB |
-| **[Stella](https://github.com/zhugez/Stella)** | Illustrated IELTS vocab (7.3k words + audio + FSRS). [Live](https://stella.zhugez.workers.dev) | TypeScript · Cloudflare Workers |
-| **[Pingloom](https://github.com/zhugez/Pingloom)** | Native desktop ping & emote radial wheels for Windows. | Tauri 2 · Svelte 5 · Rust |
-| **[Pi-pulse](https://github.com/zhugez/Pi-pulse)** | Runtime extension suite for the Pi coding agent (guards, diagnostics, gates). | TypeScript |
-| **[Cordyceps](https://github.com/zhugez/Cordyceps)** | WordPress plugin vulnerability scanner featuring AST call-chain reachability analysis. | Python |
-| **[dross](https://github.com/zhugez/dross)** | Conservative disk cleaner for Fedora and WSL with dry-run verification. [Live](https://dross.zhugez.workers.dev) | Rust |
+| **[TrustSee](https://trustsee.com)** | Multi-faceted agentic security platform: unified attack surface hygiene (TLS, DNS, SPF/DKIM/DMARC), continuous uptime resilience, autonomous agentic red teaming, and threat intelligence. Exposes `scan_repo` over MCP | Next.js 16 · React 19 · Supabase · Playwright · MCP |
+| **[ExoMind](https://github.com/zhugez/ExoMind)** | Portable knowledge graph and persistent second-brain memory runtime for AI coding agents (Pi, Hermes, OpenClaw, Codex) | Rust · RocksDB |
+| **[Stella](https://github.com/zhugez/Stella)** | Illustrated IELTS vocabulary engine with 7,298 words, native audio, and FSRS spaced repetition scheduling | TypeScript · Cloudflare Workers |
+| **[Pingloom](https://github.com/zhugez/Pingloom)** | Lightweight native radial ping and emote wheel overlay for competitive games | Tauri 2 · Svelte 5 · Rust |
+| **[Pi-pulse](https://github.com/zhugez/Pi-pulse)** | Runtime extension suite for Pi coding agent: byte-loop guard, mutation gate, CRAP-score gate, and in-flight diagnostics | TypeScript |
+| **[Cordyceps](https://github.com/zhugez/Cordyceps)** | WordPress plugin vulnerability scanner featuring AST call-chain reachability analysis | Python |
+| **[dross](https://github.com/zhugez/dross)** | Conservative disk cleaner for Fedora and WSL with dry-run verification | Rust |
 
 ## Tech stack
 
@@ -81,11 +90,6 @@ Open to collaborating on research and building reliable open-source tooling.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=zhugez&theme=catppuccin-mocha&hide_border=true" />
 </p>
-
-## Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## Contact
 
