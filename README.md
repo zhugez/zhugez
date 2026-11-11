@@ -28,7 +28,7 @@ Open to collaborating on research and building reliable open-source tooling.
 | Target / Ecosystem | Findings & Attack Surface | Severity | Status |
 | --- | --- | --- | --- |
 | **Telegram for Android** | **TG-01**: Native C++ descriptor truncation in `Utilities.readlinkFd` procfs resolving<br>**TG-02**: Exported `OpenChatReceiver` intent extra forwarding into unauthenticated `LaunchActivity` OAuth flow | **7.5 High**<br><br>**7.1 High** | **Pending Resolve** |
-| **Patchstack (WordPress)** | 3 findings: Broken Access Control in *Upsell Order Bump Offer for WooCommerce*, commercial CRM plugin, and *Motors — Car Dealership & Classified Listings* plugin | **Medium** | **Validated** *(Pending public advisory)* |
+| **Patchstack (WordPress)** | 3 findings: Broken Access Control in *Motors — Car Dealership & Classified Listings* (<= 1.4.129, **[Published](https://patchstack.com/database/wordpress/plugin/motors-car-dealership-classified-listings/vulnerability/wordpress-motors-plugin-1-4-128-broken-access-control-vulnerability)**), *Upsell Order Bump Offer for WooCommerce*, and commercial CRM plugin | **Medium** | **Published & Validated** |
 | **IUH Academic System** | 3 findings: Sensitive credential leak (Gitleaks, 8.7), arbitrary sensitive file exposure (8.7), and reflected client-side DOM sink injection (6.9) | **8.7 High**<br>**6.9 Medium** | **Validated & Resolved** |
 
 ## 📜 Research & Publications
