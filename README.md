@@ -78,6 +78,7 @@ Open to collaborating on research and building reliable open-source tooling.
 | **[Pi-pulse](https://github.com/zhugez/Pi-pulse)** | Runtime extension suite for Pi coding agent: byte-loop guard, mutation gate, CRAP-score gate, and in-flight diagnostics | TypeScript |
 | **[pi-capsule](https://github.com/zhugez/pi-capsule)** · [Live](https://capsule.lyngocvu.tech/) | Portable environment snapshot & web console for Pi Coding Agent, packaging extensions, skills, and companion CLIs | Shell · TypeScript · Cloudflare Workers |
 | **[Cordyceps](https://github.com/zhugez/Cordyceps)** | WordPress plugin vulnerability scanner featuring AST call-chain reachability analysis | Python |
+| **[dross](https://github.com/zhugez/dross)** · [Live](https://dross.lyngocvu.tech/) | Conservative disk cleaner for Fedora and WSL with zero runtime dependencies and browser terminal simulator | Rust · Cloudflare Workers |
 | **[Abyss](https://github.com/zhugez/Abyss)** | Local-first AppSec analysis platform featuring local API, privileged Firecracker job runner, RabbitMQ queue, and MinIO storage | Next.js · Firecracker · PostgreSQL · MinIO · RabbitMQ · Grafana + Loki |
 
 ## Tech stack
