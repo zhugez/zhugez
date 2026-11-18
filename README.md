@@ -79,7 +79,9 @@ Open to collaborating on research and building reliable open-source tooling.
 | **[Pi-capsule](https://github.com/zhugez/pi-capsule)** · [Live](https://capsule.lyngocvu.tech/) | Portable environment snapshot & web console for Pi Coding Agent, packaging extensions, skills, and companion CLIs | Shell · TypeScript · Cloudflare Workers |
 | **[Cordyceps](https://github.com/zhugez/Cordyceps)** | WordPress plugin vulnerability scanner featuring AST call-chain reachability analysis | Python |
 | **[Dross](https://github.com/zhugez/dross)** · [Live](https://dross.lyngocvu.tech/) | Conservative disk cleaner for Fedora and WSL with zero runtime dependencies and browser terminal simulator | Rust · Cloudflare Workers |
-| **[Abyss](https://github.com/zhugez/Abyss)** | Local-first AppSec analysis platform featuring local API, privileged Firecracker job runner, RabbitMQ queue, and MinIO storage | Next.js · Firecracker · PostgreSQL · MinIO · RabbitMQ · Grafana + Loki |
+| **[Abyss](https://github.com/zhugez/Abyss)** · [Live](https://abyss.lyngocvu.tech/) | Local-first AppSec analysis platform featuring local API, privileged Firecracker job runner, RabbitMQ queue, and MinIO storage | Next.js · Firecracker · PostgreSQL · MinIO · RabbitMQ · Grafana + Loki |
+| **[ArcStrike](https://github.com/zhugez/ArcStrike)** · [Live](https://arcstrike.lyngocvu.tech/) | Automated malware dynamic analysis platform with hypervisor instrumentation and ML threat scoring | Go · Python · Next.js · PostgreSQL · RustFS |
+| **[ShadeHunter](https://github.com/zhugez/ShadeHunter)** · [Live](https://shadehunter.lyngocvu.tech/) | Threat intelligence & adversary infrastructure tracking platform with automated pivot graphs | TypeScript · Next.js · Tailwind |
 
 ## Tech stack
 
