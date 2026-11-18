@@ -76,9 +76,9 @@ Open to collaborating on research and building reliable open-source tooling.
 | **[Stella](https://github.com/zhugez/Stella)** · [Live](https://stella.lyngocvu.tech/) | Illustrated IELTS vocabulary engine with 7,298 words, native audio, and FSRS spaced repetition scheduling | TypeScript · Cloudflare Workers |
 | **[Pingloom](https://github.com/zhugez/Pingloom)** · [Live](https://pingloom.lyngocvu.tech/) | Lightweight native radial ping and emote wheel overlay for competitive games | Tauri 2 · Svelte 5 · Rust |
 | **[Pi-pulse](https://github.com/zhugez/Pi-pulse)** | Runtime extension suite for Pi coding agent: byte-loop guard, mutation gate, CRAP-score gate, and in-flight diagnostics | TypeScript |
-| **[pi-capsule](https://github.com/zhugez/pi-capsule)** · [Live](https://capsule.lyngocvu.tech/) | Portable environment snapshot & web console for Pi Coding Agent, packaging extensions, skills, and companion CLIs | Shell · TypeScript · Cloudflare Workers |
+| **[Pi-capsule](https://github.com/zhugez/pi-capsule)** · [Live](https://capsule.lyngocvu.tech/) | Portable environment snapshot & web console for Pi Coding Agent, packaging extensions, skills, and companion CLIs | Shell · TypeScript · Cloudflare Workers |
 | **[Cordyceps](https://github.com/zhugez/Cordyceps)** | WordPress plugin vulnerability scanner featuring AST call-chain reachability analysis | Python |
-| **[dross](https://github.com/zhugez/dross)** · [Live](https://dross.lyngocvu.tech/) | Conservative disk cleaner for Fedora and WSL with zero runtime dependencies and browser terminal simulator | Rust · Cloudflare Workers |
+| **[Dross](https://github.com/zhugez/dross)** · [Live](https://dross.lyngocvu.tech/) | Conservative disk cleaner for Fedora and WSL with zero runtime dependencies and browser terminal simulator | Rust · Cloudflare Workers |
 | **[Abyss](https://github.com/zhugez/Abyss)** | Local-first AppSec analysis platform featuring local API, privileged Firecracker job runner, RabbitMQ queue, and MinIO storage | Next.js · Firecracker · PostgreSQL · MinIO · RabbitMQ · Grafana + Loki |
 
 ## Tech stack
