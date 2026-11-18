@@ -77,11 +77,20 @@ Open to collaborating on research and building reliable open-source tooling.
 | **[Pingloom](https://github.com/zhugez/Pingloom)** · [Live](https://pingloom.lyngocvu.tech/) | Lightweight native radial ping and emote wheel overlay for competitive games | Tauri 2 · Svelte 5 · Rust |
 | **[Pi-pulse](https://github.com/zhugez/Pi-pulse)** | Runtime extension suite for Pi coding agent: byte-loop guard, mutation gate, CRAP-score gate, and in-flight diagnostics | TypeScript |
 | **[Pi-capsule](https://github.com/zhugez/pi-capsule)** · [Live](https://capsule.lyngocvu.tech/) | Portable environment snapshot & web console for Pi Coding Agent, packaging extensions, skills, and companion CLIs | Shell · TypeScript · Cloudflare Workers |
-| **[Cordyceps](https://github.com/zhugez/Cordyceps)** | WordPress plugin vulnerability scanner featuring AST call-chain reachability analysis | Python |
-| **[Dross](https://github.com/zhugez/dross)** · [Live](https://dross.lyngocvu.tech/) | Conservative disk cleaner for Fedora and WSL with zero runtime dependencies and browser terminal simulator | Rust · Cloudflare Workers |
 | **[Abyss](https://github.com/zhugez/Abyss)** · [Live](https://abyss.lyngocvu.tech/) | Local-first AppSec analysis platform featuring local API, privileged Firecracker job runner, RabbitMQ queue, and MinIO storage | Next.js · Firecracker · PostgreSQL · MinIO · RabbitMQ · Grafana + Loki |
 | **[ArcStrike](https://github.com/zhugez/ArcStrike)** · [Live](https://arcstrike.lyngocvu.tech/) | Automated malware dynamic analysis platform with hypervisor instrumentation and ML threat scoring | Go · Python · Next.js · PostgreSQL · RustFS |
 | **[ShadeHunter](https://github.com/zhugez/ShadeHunter)** · [Live](https://shadehunter.lyngocvu.tech/) | Threat intelligence & adversary infrastructure tracking platform with automated pivot graphs | TypeScript · Next.js · Tailwind |
+
+## 🧰 Toolkit
+
+| Tool / Utility | Highlights & Capabilities | Stack |
+| --- | --- | --- |
+| **[VerTel Bot](https://github.com/zhugez/vertelt-bot)** · [Live](https://vertel.lyngocvu.tech/) | Modern Telegram bot framework with built-in rate limiting, metrics, health checks, and resilient retry logic | C++20 · CMake · Docker · Cloudflare |
+| **[Ryuu](https://github.com/zhugez/ryuu)** · [Live](https://ryuu.lyngocvu.tech/) | Modular Discord bot built with DPP: 38 slash commands for utility, moderation, and developer diagnostics | C++20 · DPP · Cloudflare |
+| **[Dross](https://github.com/zhugez/dross)** · [Live](https://dross.lyngocvu.tech/) | Conservative disk cleaner for Fedora and WSL with zero runtime dependencies and browser terminal simulator | Rust · Cloudflare Workers |
+| **[OrbitSmith](https://github.com/zhugez/OrbitSmith)** | Antigravity-focused developer CLI toolkit for fast, multi-platform system workflows | Rust · Linux/Windows |
+| **[Mycelium](https://github.com/zhugez/Mycelium)** | High-throughput parallel bulk downloader and harvest engine for WordPress.org plugin research | Rust · Tokio |
+| **[Cordyceps](https://github.com/zhugez/Cordyceps)** | Automated WordPress plugin vulnerability scanner featuring AST call-chain reachability analysis | Python · Mycelium |
 
 ## Tech stack
 
