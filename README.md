@@ -73,7 +73,7 @@ Open to collaborating on research and building reliable open-source tooling.
 | --- | --- | --- |
 | **[TrustSee](https://trustsee.com)** | Multi-faceted agentic security platform: unified attack surface hygiene (TLS, DNS, SPF/DKIM/DMARC), continuous uptime resilience, autonomous agentic red teaming, and threat intelligence. Exposes `scan_repo` over MCP | Next.js 16 · React 19 · Supabase · Playwright · MCP |
 | **[ExoMind](https://github.com/zhugez/ExoMind)** | Portable knowledge graph and persistent second-brain memory runtime for AI coding agents (Pi, Hermes, OpenClaw, Codex) | Rust · RocksDB |
-| **[Stella](https://github.com/zhugez/Stella)** | Illustrated IELTS vocabulary engine with 7,298 words, native audio, and FSRS spaced repetition scheduling | TypeScript · Cloudflare Workers |
+| **[Stella](https://github.com/zhugez/Stella)** · [Live](https://stella.lyngocvu.tech/) | Illustrated IELTS vocabulary engine with 7,298 words, native audio, and FSRS spaced repetition scheduling | TypeScript · Cloudflare Workers |
 | **[Pingloom](https://github.com/zhugez/Pingloom)** | Lightweight native radial ping and emote wheel overlay for competitive games | Tauri 2 · Svelte 5 · Rust |
 | **[Pi-pulse](https://github.com/zhugez/Pi-pulse)** | Runtime extension suite for Pi coding agent: byte-loop guard, mutation gate, CRAP-score gate, and in-flight diagnostics | TypeScript |
 | **[Cordyceps](https://github.com/zhugez/Cordyceps)** | WordPress plugin vulnerability scanner featuring AST call-chain reachability analysis | Python |
