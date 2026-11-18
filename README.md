@@ -71,13 +71,13 @@ Open to collaborating on research and building reliable open-source tooling.
 
 | Project | Highlights & Capabilities | Stack |
 | --- | --- | --- |
-| **[TrustSee](https://trustsee.com)** | Multi-faceted agentic security platform: unified attack surface hygiene (TLS, DNS, SPF/DKIM/DMARC), continuous uptime resilience, autonomous agentic red teaming, and threat intelligence. Exposes `scan_repo` over MCP | Next.js 16 · React 19 · Supabase · Playwright · MCP |
+| **[TrustSee](https://trustsee.com)** | Multi-faceted agentic security platform: unified attack surface hygiene (TLS, DNS, SPF/DKIM/DMARC), continuous uptime resilience, autonomous agentic red teaming, and threat intelligence. Exposes `scan_repo` over MCP | agent-browser · Firecracker · ElevenLabs Voice · RabbitMQ · RustFS |
 | **[ExoMind](https://github.com/zhugez/ExoMind)** | Portable knowledge graph and persistent second-brain memory runtime for AI coding agents (Pi, Hermes, OpenClaw, Codex) | Rust · RocksDB |
 | **[Stella](https://github.com/zhugez/Stella)** · [Live](https://stella.lyngocvu.tech/) | Illustrated IELTS vocabulary engine with 7,298 words, native audio, and FSRS spaced repetition scheduling | TypeScript · Cloudflare Workers |
 | **[Pingloom](https://github.com/zhugez/Pingloom)** | Lightweight native radial ping and emote wheel overlay for competitive games | Tauri 2 · Svelte 5 · Rust |
 | **[Pi-pulse](https://github.com/zhugez/Pi-pulse)** | Runtime extension suite for Pi coding agent: byte-loop guard, mutation gate, CRAP-score gate, and in-flight diagnostics | TypeScript |
 | **[Cordyceps](https://github.com/zhugez/Cordyceps)** | WordPress plugin vulnerability scanner featuring AST call-chain reachability analysis | Python |
-| **[Abyss](https://github.com/zhugez/Abyss)** | AI-powered AppSec analysis platform for local-first security workflows with local LLM integration and isolated container scanning | Python · TypeScript · Docker |
+| **[Abyss](https://github.com/zhugez/Abyss)** | Local-first AppSec analysis platform featuring local API, privileged Firecracker job runner, RabbitMQ queue, and MinIO storage | Next.js · Firecracker · PostgreSQL · MinIO · RabbitMQ · Grafana + Loki |
 
 ## Tech stack
 
