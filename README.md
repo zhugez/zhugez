@@ -10,12 +10,10 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shadowforge-313244?style=flat-square&logo=vercel&logoColor=cdd6f4)](https://shadowforge.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dev.lyngocvu.tech-313244?style=flat-square&logoColor=cdd6f4)](https://dev.lyngocvu.tech/)
 [![X](https://img.shields.io/badge/X-%40dezzhu1-313244?style=flat-square&logo=x&logoColor=cdd6f4)](https://x.com/dezzhu1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dezzhu-313244?style=flat-square&logo=linkedin&logoColor=89b4fa)](https://www.linkedin.com/in/dezzhu)
 [![dev.to](https://img.shields.io/badge/dev.to-zhugez-313244?style=flat-square&logo=devdotto&logoColor=cdd6f4)](https://dev.to/zhugez)
-[![zhugez on GitRanks: profile](https://gitranks.com/badge/user/zhugez/profile-card.svg?scheme=night)](https://gitranks.com/profile/zhugez)
-[![zhugez on GitRanks: last 24 months](https://gitranks.com/badge/user/zhugez/count-chart.svg)](https://gitranks.com/profile/zhugez)
 
 </div>
 
@@ -113,6 +111,6 @@ Open to collaborating on research and building reliable open-source tooling.
 
 ## Contact
 
-[Blog](https://shadowforge.vercel.app/) · [X](https://x.com/dezzhu1) · [LinkedIn](https://www.linkedin.com/in/dezzhu) · [dev.to](https://dev.to/zhugez)
+[Portfolio](https://dev.lyngocvu.tech/) · [X](https://x.com/dezzhu1) · [LinkedIn](https://www.linkedin.com/in/dezzhu) · [dev.to](https://dev.to/zhugez)
 
 Open to work & research collaboration.
